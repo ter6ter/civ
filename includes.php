@@ -1,0 +1,22 @@
+<?php
+require_once("config.php");
+require_once("functions.php");
+$planet = 0;
+require_once("classes/MyDB.class.php");
+require_once("classes/User.class.php");
+require_once("classes/Game.class.php");
+require_once("classes/CellType.class.php");
+require_once("classes/Cell.class.php");
+require_once("classes/MissionType.class.php");
+require_once("classes/ResearchType.class.php");
+require_once("classes/Research.class.php");
+require_once("classes/BuildingType.class.php");
+require_once("classes/Building.class.php");
+require_once("classes/Resource.class.php");
+require_once("classes/ResourceType.class.php");
+require_once("classes/Message.class.php");
+require_once("classes/Unit.class.php");
+require_once("classes/UnitType.class.php");
+require_once("classes/City.class.php");
+require_once("classes/Event.class.php");
+?>
